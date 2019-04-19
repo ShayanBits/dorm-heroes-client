@@ -41,7 +41,7 @@ npm install
 npm start
 ```
 
- * Deploy on your emulator or device<br/><br/>
+* Deploy on your emulator or device<br/><br/>
  
 Android:
 ```
