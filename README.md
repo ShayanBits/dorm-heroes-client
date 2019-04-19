@@ -11,17 +11,17 @@ In this repository you will find the React Native project, which aiming to give 
 First clone or download the project and locate it wherever you want on your machine.
 ```
 git clone git@bitbucket.org:dormheros/dorm-heros-client.git
- ```
+```
 #### Prerequisites
 You need to install Node.js > 10.15.3:
 * Install [Node.js](https://nodejs.org/en/)
 * Install [React Native](https://facebook.github.io/react-native/docs/getting-started) Client
 ```
  npm install -g react-native-cli
- ```
+```
 * Download and Setup [Android Studio](https://developer.android.com/studio)
 ```
-Note: Please don't forget to setup your system enviroment variable for Android SDK
+Note: Please dont forget to setup your system enviroment variable for Android SDK
 ```
 ---
 
@@ -38,14 +38,14 @@ Note: Please don't forget to setup your system enviroment variable for Android S
 * Start the development server 
 ```
 npm start
- ```
- * Deploy on your emulator or device<br /><br />
+```
+ * Deploy on your emulator or device<br/><br/>
  
 Android:
 ```
 react-native run-android 
- ```
+```
 iOS:
- ```
+```
  react-native run-ios 
-  ```
+```
