@@ -2,7 +2,7 @@
 
 # Drom-Heros
 
-This project was created in the purpose of helping the people, who living in the dorm to communicate with them dorm's tutor and report the issues, which they facing in the dorm. <br /><br />
+This project was created in the purpose of helping the people, who living in the dorm to communicate with them dorm's tutor and report the issues, which they facing in the dorm. <br />
 In this repository you will find the React Native project, which aiming to give the iOS and Android client a GUI to create issues and share them anonymously with the other people in the dorm and their dorm's tutor.
 
 ---
@@ -41,7 +41,7 @@ npm install
 npm start
 ```
 
-* Deploy on your emulator or device<br/><br/>
+* Deploy on your emulator or device<br />
  
 Android:
 ```
