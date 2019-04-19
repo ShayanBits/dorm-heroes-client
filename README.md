@@ -13,7 +13,7 @@ First clone or download the project and locate it wherever you want on your mach
 git clone git@bitbucket.org:dormheros/dorm-heros-client.git
 ```
 #### Prerequisites
-You need to install Node.js > 10.15.3:
+
 * Install [Node.js](https://nodejs.org/en/)
 * Install [React Native](https://facebook.github.io/react-native/docs/getting-started) Client
 ```
@@ -41,7 +41,7 @@ npm install
 npm start
 ```
 
-* Deploy on your emulator or device<br />
+* Deploy on your emulator or device <br />
  
 Android:
 ```
