@@ -33,7 +33,7 @@ Note: Please dont forget to setup your system enviroment variable for Android SD
  or 
 ```
   npm install 
- ```
+```
 * Start [emulator](https://developer.android.com/studio/run/emulator) or connect the real device
 * Start the development server 
 ```
@@ -47,5 +47,5 @@ react-native run-android
 ```
 iOS:
 ```
- react-native run-ios 
+react-native run-ios 
 ```
