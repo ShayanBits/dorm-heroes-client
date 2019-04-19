@@ -36,9 +36,11 @@ npm install
 ```
 * Start [emulator](https://developer.android.com/studio/run/emulator) or connect the real device
 * Start the development server 
+
 ```
 npm start
 ```
+
  * Deploy on your emulator or device<br/><br/>
  
 Android:
