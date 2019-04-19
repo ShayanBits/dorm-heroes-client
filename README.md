@@ -28,11 +28,11 @@ Note: Please dont forget to setup your system enviroment variable for Android SD
 #### Usage
 * Install all project dependencies (yarn recommended)
 ```
- yarn install 
+yarn install 
 ```
  or 
 ```
-  npm install 
+npm install 
 ```
 * Start [emulator](https://developer.android.com/studio/run/emulator) or connect the real device
 * Start the development server 
