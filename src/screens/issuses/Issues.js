@@ -9,7 +9,7 @@ const instructions = 'Double tap R on your keyboard to reload,\n' +
     'Test if everything work';
 
 type Props = {};
-export default class Messages extends Component<Props> {
+export default class Issues extends Component<Props> {
 
     onPress = () => {
         /*pushScreen(

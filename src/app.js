@@ -15,6 +15,6 @@ export default function init() {
     Navigation
         .isAppLaunched()
         .then((appLaunched) => {
-            startScreen('DormHero', 'Messages');
+            startScreen('DormHero', 'Issues');
         })
 }

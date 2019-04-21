@@ -1,8 +1,8 @@
 import { Navigation } from 'react-native-navigation';
-import Messages from './messages';
+import Issues from './issuses';
 
 
 export function registerScreens(store, provider) {
-    Navigation.registerComponent('DormHero', () => Messages, store, provider);
+    Navigation.registerComponent('DormHero', () => Issues, store, provider);
 }
 
